@@ -1,0 +1,67 @@
+[
+  {
+    "number": 1,
+    "color": "red",
+    "isPar": false
+  },
+  {
+    "number": 2,
+    "color": "black",
+    "isPar": true
+  },
+  {
+    "number": 3,
+    "color": "red",
+    "isPar": false
+  },
+  {
+    "number": 4,
+    "color": "black",
+    "isPar": true
+  },
+  {
+    "number": 5,
+    "color": "red",
+    "isPar": false
+  },
+  {
+    "number": 6,
+    "color": "black",
+    "isPar": true
+  },
+  {
+    "number": 7,
+    "color": "red",
+    "isPar": false
+  },
+  {
+    "number": 8,
+    "color": "black",
+    "isPar": true
+  },
+  {
+    "number": 9,
+    "color": "red",
+    "isPar": false
+  },
+  {
+    "number": 10,
+    "color": "black",
+    "isPar": true
+  },
+  {
+    "number": 11,
+    "color": "black",
+    "isPar": false
+  },
+  {
+    "number": 12,
+    "color": "red",
+    "isPar": true
+  },
+  {
+    "number": 13,
+    "color": "black",
+    "isPar": false
+  }
+]
